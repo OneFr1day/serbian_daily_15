@@ -1,0 +1,9 @@
+{
+  "version": "1.3.1",
+  "date": "2026-05-31",
+  "title": "Install fix",
+  "notes": [
+    "Fixed GitHub Actions build by ignoring broken package-lock and installing dependencies cleanly.",
+    "PWA install flow for GitHub Pages remains enabled."
+  ]
+}
